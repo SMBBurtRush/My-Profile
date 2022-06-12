@@ -2,8 +2,21 @@
 
 body {
   background-color: #EDD9A3;
+  padding: 20px;
 }
+
 
 h1 {
   color: #4F4540;
+  text-align: center;
+}
+
+img {
+  border: 20px solid #faa4bd
+  
+}
+
+
+footer {
+  text-align: center;
 }
