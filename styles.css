@@ -3,19 +3,38 @@
 body {
   background-color: #EDD9A3;
   padding: 20px;
+  max-width: 1280px
+
 }
 
 
 h1 {
   color: #4F4540;
   text-align: center;
+
+}
+
+h2, h3 {
+  color: #4F4540;
+  text-align: justify;
+  text-justify: inter-word;
+
+}
+
+p {
+  text-align: justify;
+  text-justify: inter-word;
+
 }
 
 img {
   border: 20px solid #faa4bd
-  
+
 }
 
+h1, h2, h3, h4, p {
+  font-family: georgia, serif; times new roman, serif; Verdana (sans-serif);
+}
 
 footer {
   text-align: center;
